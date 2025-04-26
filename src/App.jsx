@@ -38,8 +38,8 @@ function App() {
             className='max-w-full h-auto rounded'/>
 
 
-          <h2 className='absolute top-6 left-1/2  transform-translate-x-1/2 text-white text-3xl font-bold drop-shadow '>{topText}</h2>
-          <h2 className='absolute bottom-6 left-1/2  transform-translate-x-1/2 text-white text-3xl font-bold drop-shadow '>{bottomText}</h2>
+          <h2 className='absolute top-6  left-30  text-wrap transform-translate-x-1/2 text-white text-3xl font-bold drop-shadow '>{topText}</h2>
+          <h2 className='absolute bottom-6 left-30  text-wrap transform-translate-x-1/2 text-white text-3xl font-bold drop-shadow '>{bottomText}</h2>
           </div>
         )}
 
